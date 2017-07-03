@@ -11,7 +11,7 @@ allow you to combo off. I think that reading through a pile document and trying 
 are there helps in building such an intuition.
 
 If you spot a mistake somewhere or feel an important pile is missing please make your changes and 
-send me a pull request.
+send me a pull request. This document is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Notation
 
