@@ -84,7 +84,7 @@ BS + LM
 -> TW, GP, LED, GP, LED              BBB+U (4)
 ```
 ### TW/AoI in hand piles
-
+```
 TW in hand:
 -> LED, GP, GP, GP, LM               BBB+1UU (6)
 -> LED, GP, LED, GP, BW              BBB+1UU (6)     8 Storm
@@ -92,8 +92,7 @@ TW in hand:
 TW + GP in hand:
 -> BS, LED, GP, GP, LM               BBB+U (4)       10 Storm
 -> BS, LED, GP, LED, BW              BBB+U (4)
-
-
+```
 
 ## Ideas Unbound Piles
 
@@ -197,7 +196,7 @@ GP + BW:
 -> LED, LP, LED, LED, BW             BBB+2R (6)      10 Storm
 ```
 
-## Piles with Ideas Unbound SB
+ ## Piles with Ideas Unbound SB
 
 ```
 BW:
@@ -223,7 +222,9 @@ cost of the spell to the cost listed here.
 
 ```
 GP in hand:
--> IU/TW, LED, GP, Karakas, ToA         BBB+1UU (6)  6 Storm
+-> IU, LED, GP, Karakas, ToA            BBB+1UU (6)  6 Storm
+-> TW, LED, GP, Karakas, ToA            BBB+2UU (7)  6 Storm
+-> AoI, LED, GP, Karakas, ToA           BBB+3R  (7)  6 Storm
 
 GP + BW(IC):
 -> LED, Karakas, DR, LP, ToA            BBB+2R (6)   8 Storm
@@ -241,7 +242,7 @@ again and again, Gitaxian Probe can provide some free
 draws, but the cost in mana/life becomes pretty high.
 
 Costs written as [x/y] means you have to pay either.
-
+```
 GP + LED:
 -> TW, LED, GP, DD, BW              BBB+[1UU/BBB] (6)   13 Storm
 -> TW, LED, LED, GP, BW
@@ -256,8 +257,7 @@ TW:
 TW + GP:
 -> LED, LED, GP, DD, BW             BBB+1UU (6)         13 Storm
 -> TW, LED, LED, GP, BW
-
-
+```
 
 ## Doomsday-Time Spiral Piles
 
