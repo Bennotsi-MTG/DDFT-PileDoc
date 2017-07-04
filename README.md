@@ -31,6 +31,7 @@ send me a pull request. This document is licensed under [CC-BY-4.0](https://crea
 | DD | Doomsday |
 | DR | Dark Ritual |
 | IC | Infernal Contract |
+| CB | Conjurer's Bauble |
 
 Mana costs are represented as follows:  
 W White - U Blue - B Black - R Red - G Green  
@@ -98,15 +99,13 @@ TW + GP in hand:
 
 ### Basic piles
 ```
-BS/Ponder:
--> IU, GP, LED, LED, ToA             BBB+UUU (6)     7 Storm
--> IU, GP, LED, LED, BW              BBB+UUU (6)     8 Storm
-
 GP:
+-> IU, GP, CB, LED, LM               BBB+1UU (6)
 -> IU, GP, LED, LED, ToA             BBB+UU (5)      7 Storm
 -> IU, GP, LED, LED, BW              BBB+UU (5)      8 Storm
 
 2x GP:
+-> LED, IU, LP, GP, LM               BBB+1 (4)
 -> LED, IU, LP, DR, ToA              BBB (3)         8 Storm
 -> LED, IU, LP, LED, BW              BBB+1 (4)       9 Storm
 ```
@@ -133,19 +132,25 @@ BS + GP + 1 card:
 ### Ideas Unbound in hand piles
 ```
 Ideas Unbound:
+-> GP, GP, CB, LED, LM               BBB+1UU (6)
 -> GP, LED, LED, Ponder, ToA         BBB+UU (5)      7 Storm
 -> GP, LED, LED, GP, BW              BBB+UU (5)      8 Storm
 
 BS + Ideas Unbound:
+-> GP, LED, DR, CB, LM               BBB+UB
 -> GP, LED, LP, DR, ToA              BBB+U (4)       8 Storm
 
 BS + Ideas Unbound + 1 card:
+-> GP, LED, LED, CB/GP, LM           BBB+U (4)
 -> GP, LED, LED, LED, BW             BBB+U (4)       9 Storm
 
 BS + Ideas Unbound + GP:
+-> LED, LED, GP, X, LM               BBB+U (4)
 -> LED, LED, LED, LED, BW            BBB+U (4)       10 Storm
 
 GP + Ideas Unbound:
+-> LP, LED, GP, CB, LM               BBB+1U (5)
+-> LED, LED, GP, CB, LM              BBB+UU (5)
 -> LP, LED, LED, GP, ToA             BBB+U (4)       8 Storm
 -> LP, LED, LED, GP, BW              BBB+U (4)       9 Storm
 ```
@@ -196,7 +201,7 @@ GP + BW:
 -> LED, LP, LED, LED, BW             BBB+2R (6)      10 Storm
 ```
 
- ## Piles with Ideas Unbound SB
+## Piles with Ideas Unbound SB
 
 ```
 BW:
@@ -337,8 +342,11 @@ LED in play:
 ## Pass the turn Piles using Chain of Vapor
 
 ```
-GP:
--> IU, LED, LED, CoV, BW             UUU (3)      8 Storm
+GP in hand:
+-> IU, LED, LED, CoV, BW             UUU (3)      9 Storm
+
+LED in play:
+-> IU, LED, GP, CoV, BW              UUU (3)      8 Storm
 
 BW + GP + 1 card:
 -> GP, BS, LED, LED, CoV             UU (2)       10 Storm
