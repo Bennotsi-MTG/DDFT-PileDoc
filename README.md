@@ -60,10 +60,10 @@ because it is obvious that it is used for Tendrils of Agony.
 ```
 GP in hand:
 -> TW, GP, GP, LED, LM               BBB+1UU (6)
--> TW, GP, LED, LED, BW              BBB+1UU (6)     8 Storm
+-> TW, LED, LED, GP, BW              BBB+1UU (6)     8 Storm
 
 -> AoI, GP, GP, LED, LM              BBB+2R (6)
--> AoI, GP, LED, LED, BW             BBB+2R (6)      8 Storm
+-> AoI, LED, LED, GP, BW             BBB+2R (6)      8 Storm
 
 2x GP in hand:
 -> LED, TW, LED, GP, LM              BBB (3)
@@ -88,13 +88,16 @@ BS + LM
 ```
 TW in hand:
 -> LED, GP, GP, GP, LM               BBB+1UU (6)
--> LED, GP, LED, GP, BW              BBB+1UU (6)     8 Storm
+-> LED, LED, GP, GP, BW              BBB+1UU (6)     8 Storm
 
 TW + GP in hand:
--> BS, LED, GP, GP, LM               BBB+U (4)       10 Storm
--> BS, LED, GP, LED, BW              BBB+U (4)
-```
+-> LP, LED, GP, GP, LM               BBB+1U (5)
+-> LP, LED, LED, GP, BW              BBB+1U (5)      9 Storm
 
+AoI + GP in hand:
+-> LP, LED, GP, GP, LM               BBB+2 (5)
+-> LP, LED, LED, GP, BW              BBB+2 (5)       9 Storm
+```
 ## Ideas Unbound Piles
 
 ### Basic piles
