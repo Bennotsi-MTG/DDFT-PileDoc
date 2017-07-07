@@ -355,11 +355,11 @@ Costs written as [x/y] means you have to pay either.
 
 ```
 LED in play:
--> TW, LED, GP, DD, BW               1UU (3)       9 Storm
+-> TW, LED, GP, DD, BW              1UU (3)         9 Storm
+-> TW, LED, LED, BW(ToA), X
 
-CB in play:
--> IU, LED, LED, BW, BW              1UUR (4)      11 Storm
--> IU, LED, GP, LED, BW
+-> IU, LED, CB, DD, BW              1UU (3)         9 Storm
+-> IU, LED, LED, BW(ToA), X
 ```
 
 ## Pass the turn Piles using Chain of Vapor
