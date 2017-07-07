@@ -87,6 +87,21 @@ the LED with the BW still in hand. With the mana now floating you
 activate CB sending BW to the bottom of your deck to draw IU.   
 You have now created a normal -> IU, LED, LED, GP, BW pile!
 
+We can also use this effect to play our finisher spell multiple times.
+Even on a pass-the-turn pile.
+
+Example:
+```
+ToA+DR+LED:
+-> IC, DR, DR, LP, CB                  BBB+2B (6)         8+9 Storm
+```
+
+In this instance we can play ToA twice. Draw IC for turn. Play DR to play IC.
+Play out all your spells resulting in (2BBBBBB) mana being left. Cast ToA with
+storm count of 8 (2BB remaining). Then activate CB to return ToA to hand to cast
+it again for storm count of 9. This results in 17 copies of ToA being available
+across the pile.
+
 
 ## Using CB to extend the pile
 
