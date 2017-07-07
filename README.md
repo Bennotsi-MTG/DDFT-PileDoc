@@ -42,6 +42,7 @@ send me a pull request. This document is licensed under [CC-BY-4.0](https://crea
 | DR | Dark Ritual |
 | IC | Infernal Contract |
 | CB | Conjurer's Bauble |
+| SI | Shelldock Isle |
 
 Mana costs are represented as follows:  
 W White - U Blue - B Black - R Red - G Green  
