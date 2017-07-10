@@ -105,8 +105,8 @@ across the pile.
 
 ## Using CB to extend the pile
 
-You can use the theory above to help build your pile up.   
-Five card decks to have limits even if we get to choose all five cards.   
+You can use the theory of retrieving a card above to help build your pile up.   
+Five card decks do have limits even if we get to choose all five cards.   
 CB allows you to extend that to a pseudo-six cards.
 
 Example:
