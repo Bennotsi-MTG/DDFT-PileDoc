@@ -11,10 +11,15 @@ Doomsday storm or Laboratory Maniac piles that would allow a free draw
 that was also resistant to having to discard as a result of using Lion's
 Eye Diamonds. In can be included as a singleton copy to act as a copy 
 element however it has some interesting properties when multiples are 
-available in a deck.    
+available in a deck. 
+
+The most basic use of the card is of course simply as a cantrip that costs 1.
+It can also be used as a free cantrip if already in play however this does of
+course result in less storm beign available for use. In any of the common piles
+that require a non specilist cantrip this can be used instead of any others.
 
 
-## Using a single CB in a pile
+## Storing a draw with CB
 
 Let's simply start off by looking at the basic function of Conjurer's 
 Bauble as simply a tool to draw cards when using LED.   
@@ -25,8 +30,8 @@ GP:
 -> IU, CB, GP, LED, LM.                  BBB+UU1 (6)      
 ```
 
-
-## Storing a draw with CB
+Here you can see we can use CB to enable a draw card effect to be present
+even after we have activated an LED for mana.
 
 This is most applicable when you have Conjurer's Bauble
 alongside an additional cantrip in hand post-Doomsday. You can use
