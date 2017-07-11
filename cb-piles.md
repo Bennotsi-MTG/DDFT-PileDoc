@@ -98,7 +98,7 @@ Even on a pass-the-turn pile.
 Example:
 ```
 ToA+DR+LED:
--> IC, DR, DR, LP, CB                  BBB+2B (6)         8+9 Storm
+-> IC, DR, DR, LP, CB                  2B (3)         8+9 Storm
 ```
 
 In this instance we can play ToA twice. Draw IC for turn. Play DR to play IC.
