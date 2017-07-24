@@ -430,7 +430,7 @@ the option of looping CBs for additional storm.
 ```
 CB in play:
 -> IC, LED, LED, CB, BW              BBB+BBB1+X (7+X)  7+X Storm
--> IC, LED, LED, CB, BW              BBB+BBB1+X (7+X)  8+X Storm
+-> IC, LED, LED, CB, ToA              BBB+BBB1+X (7+X)  8+X Storm
 
 CB in play. Cantrip in hand:
 -> IU, LED, LED, CB, BW              BBB+UU1+X  (6+X)  8+X Storm
