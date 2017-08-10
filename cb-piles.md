@@ -118,9 +118,6 @@ Example:
 ```
 CB in play+GP:
 -> LED, IC, LED, LP, BW                  BBB+1 (4)         8 Storm
-
-CB in play+GP:
--> LED, IC, LED, LP, BW                  BBB+1 (4)         7 Storm
 ```
 
 Normally double cantrip piles into using Infernal Contract/Cruel Bargain/Meditate 
