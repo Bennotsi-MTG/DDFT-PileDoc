@@ -9,14 +9,15 @@ be found in the Doomsday Library: LINK PLACEHOLDER
 Conjurer's Bauble was identified as the closest equivalent for use in 
 Doomsday storm or Laboratory Maniac piles that would allow a free draw
 that was also resistant to having to discard as a result of using Lion's
-Eye Diamonds. In can be included as a singleton copy to act as a copy 
+Eye Diamonds. In can be included as a singleton copy to act as a replacement SDT 
 element however it has some interesting properties when multiples are 
 available in a deck. 
 
 The most basic use of the card is of course simply as a cantrip that costs 1.
 It can also be used as a free cantrip if already in play however this does of
-course result in less storm beign available for use. In any of the common piles
-that require a non specilist cantrip this can be used instead of any others.
+course results in less storm being available for use. In any of the common piles
+that require a non-specilist cantrip (such as Brainstorm) this can be used 
+instead of any others.
 
 
 ## Storing a draw with CB
@@ -33,7 +34,7 @@ GP:
 Here you can see we can use CB to enable a draw card effect to be present
 even after we have activated an LED for mana.
 
-This is most applicable when you have Conjurer's Bauble
+This is most applicable when you have Conjurer's Bauble in your deck
 alongside an additional cantrip in hand post-Doomsday. You can use
 the cantrip to draw into the pile and save the Bauble draw for when
 you are deeper into the pile. This is effective, especially when you 
@@ -64,7 +65,7 @@ This is not however the true strength of CB.
 This is where we start to discuss the real differences of Conjurer's Bauble
 and Sensei's Divining Top. We also get to read the rest of the text on
 Conjurer's Bauble other than "T, Sacrifice ~: Draw a card."   
-Conjurer's Bauble allows you to (as a may effect) target a card in your graveyard
+Conjurer's Bauble allows you (as a may effect) to target a card in your graveyard
 and stack it at the bottom of our deck. Alongside the deck manipulation
 a resolved Doomsday provides, this lets us do some nifty tricks.
 
@@ -105,7 +106,9 @@ In this instance we can play ToA twice. Draw IC for turn. Play DR to play IC.
 Play out all your spells resulting in (2BBBBBB) mana being left. Cast ToA with
 storm count of 8 (2BB remaining). Then activate CB to return ToA to hand to cast
 it again for storm count of 9. This results in 17 copies of ToA being available
-across the pile.
+across the pile. This example does require some quite specific circumstances
+but it does help illustrate tricks you can do with it. Even a low initial storm 
+count of 5 for the first copy allows for a total of 11 storm in total. 
 
 
 ## Using CB to extend the pile
@@ -125,7 +128,7 @@ would mean you draw yourself to death however with the CB in use, you can
 use the same trick as with the IU pile. Use the GP to draw into the pile. 
 Cast and crack the LED for BBB. You then use the CB to send the LED to the 
 bottom of your deck and draw IC. Using BBB you now can draw the rest
-of the stack; LED, LP, BW, LED avoiding death and allowing storming to victory.
+of the stack; LED, LP, BW, LED allowing you to storm to victory.
 
 
 ## Using 2 CBs in a loop
@@ -185,7 +188,7 @@ convert excess mana into extra storm on a 1:1 basis.
 This also explains why the ToA pile above now has a greater storm count. 
 The pile still has 2 mana left over after casting and using all of its LEDs
 so you can use that to generate two CB loops. As a result the ToA pile
-gains +2 storm by default.
+gains +2 storm compared to it's normal default.
 
 These tricks with CB allow for a number of iterations based on these simple
 concepts. They are most suited for use with either IU or IC as AoI/TW act
@@ -210,7 +213,7 @@ it can help against some of the softer hate cards or corner case scenarios.
 
 Surgical Extraction is very effective against Doomsday. It not only takes out 
 potential key cards from being used but also forces the player to shuffle their
-Library thereby destroying the order they had stacked it.CB can help protect the 
+Library thereby destroying the order they had stacked it. CB can help protect the 
 pile / deck by acting as a blocker. When Surgical Extraction is cast on something in
 your Graveyard, you can respond by sending the target card to the bottom of the deck
 thus causing the Surgical to 'fizzle' with no valid target. 
@@ -218,7 +221,7 @@ thus causing the Surgical to 'fizzle' with no valid target.
 The main trick with this is timing. You obviously cannot use the CB as part of the main
 pile itself so it must sit on the sidelines waiting. You also cannot use it at the wrong
 time as that could lead to (as an example) instances of drawing both an LED and the IU
-you intended to cast with the LED mana. Most of the time a player with attempt to Surgical
+you intended to cast with the LED mana. Most of the time a player will attempt to Surgical
 in response to you trying to draw into your Doomsday pile. If you can plan around this 
 you should be able to null and void their Surgical.
 
@@ -246,7 +249,7 @@ CB in play:
 ```
 
 The last use I wish to present is in regards to Shelldock Isle + Emrakul Piles.
-You can use it to protect the pile against a couple of Legacy staples that are also
+You can use CB to protect the pile against a couple of Legacy staples that are also
 incidentally hate cards against such piles.
 
 Example:
@@ -258,7 +261,7 @@ Pass the turn:
 This is a very basic SI pile. The idea is it contains SI to play to then Hideaway 
 Emrakul, the Aeons Torn with a second Doomsday or Laboratory Maniac as Insurance at 
 Emrakul or SI being dealt with. If all goes well you should be able to get two turns 
-worth of 15/15 Annihilator 6 attacks in. 
+worth of 15/15, Annihilator 6 attacks in. 
 
 There are a few cards that can hamper this plan. Jace, the Mind Sculptor and Goblin Guide 
 to name a couple. You can play around these cards by making a subtle alteration to the pile.
@@ -278,4 +281,6 @@ Emrakul attacks.
 More information on SI + Emrakul piles may be found in the LINK PLACEHOLDER.
 
 
-Hopefully this will allow a greater understanding of how to play through more of the piles that make up the Pile Document LINK PLACEHOLDER. Remember as with anything it is better to learn the concepts presented here more so than to try and rote learn piles
+Hopefully this will allow a greater understanding of how to play through more of the piles that make up the Pile Document LINK PLACEHOLDER. Remember as with anything it is better to learn the concepts presented here more so than to try and rote learn piles and of course, practice makes perfect. 
+
+I would strongly advise only running 1 or 2 CB with BW variants, if any, and with ToA variants running 3 or 4.
