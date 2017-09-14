@@ -4,7 +4,7 @@ At the time of writing (July 2017) this is still a relatively new card
 to play around with. Histroically Sensei's Divining Top held a place as
 a standard 4-of in the deck to act as deck filtering and a 'free saved'
 card draw for Doomsday piles. More information on how this was used can 
-be found in the Doomsday Library: LINK PLACEHOLDER   
+be found in the <a href="https://github.com/Bennotsi-MTG/Doomsday-Library">Doomsday Library</a>. 
 
 Conjurer's Bauble was identified as the closest equivalent for use in 
 Doomsday storm or Laboratory Maniac piles that would allow a free draw
@@ -49,8 +49,7 @@ CB in play+GP:
 -> IU, LED, GP, LED, BW
 ```
 
-This has some overlap with what is described in the Double Doomsday
-section. LINK PLACEHOLDER Just as historically you could with Sensei's 
+This has some overlap with what is described in the <a href="https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/double-doomsday.md">Double Doomsday section</a>. Just as historically you could with Sensei's 
 Divining Top, Conjurer's Bauble may be used save the draw for the 
 second pile in the play line.
 
@@ -278,9 +277,9 @@ Goblin Guide no longer draws you a card and thus causes you to lose a turn worth
 When you draw CB you simply play it and use it to draw into SI. You can target the Doomsday 
 that you used to make the pile with in order to give yourself an additional turn worth of 
 Emrakul attacks.
-More information on SI + Emrakul piles may be found in the LINK PLACEHOLDER.
+More information on SI + Emrakul piles may be found in the <a href="https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/shelldock-emrakul.md">Shelldock section</a>.
 
 
-Hopefully this will allow a greater understanding of how to play through more of the piles that make up the Pile Document LINK PLACEHOLDER. Remember as with anything it is better to learn the concepts presented here more so than to try and rote learn piles and of course, practice makes perfect. 
+Hopefully this will allow a greater understanding of how to play through more of the piles that make up the <a href="https://github.com/Bennotsi-MTG/DDFT-PileDoc">Pile Document</a>. Remember as with anything it is better to learn the concepts presented here more so than to try and rote learn piles and of course, practice makes perfect. 
 
 I would strongly advise only running 1 or 2 CB with BW variants, if any, and with ToA variants running 3 or 4.
