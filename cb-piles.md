@@ -279,7 +279,14 @@ that you used to make the pile with in order to give yourself an additional turn
 Emrakul attacks.
 More information on SI + Emrakul piles may be found in the <a href="https://github.com/Bennotsi-MTG/Doomsday-Codex/blob/master/shelldock-emrakul.md">Shelldock section</a>.
 
+## Summary  
 
-Hopefully this will allow a greater understanding of how to play through more of the piles that make up the <a href="https://github.com/Bennotsi-MTG/DDFT-PileDoc">Pile Document</a>. Remember as with anything it is better to learn the concepts presented here more so than to try and rote learn piles and of course, practice makes perfect. 
+1. CB can be used to save a draw when using LED for mana   
+2. CB can be used to retrieve cards for multiple use in a pile   
+3. CB can be used to extend a pile   
+4. CB can be used to get around some hate cards   
 
-I would strongly advise only running 1 or 2 CB with BW variants, if any, and with ToA variants running 3 or 4.
+Hopefully this will allow a greater understanding of how to play through more of the piles that make up the <a href="https://github.com/Bennotsi-MTG/DDFT-PileDoc">Pile Document</a>. Remember as with anything it is better to learn the concepts presented here more so than to try and rote learn piles and of course, practice makes perfect.  
+
+I would strongly advise only running 1 or 2 CB with BW variants, if any, and with ToA variants running 3 or 4.  
+
