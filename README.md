@@ -388,8 +388,7 @@ GP in hand:
 ```
 
 ### Chromatic Sphere (CS) piles
-```
-Nothing:
+```Nothing:
 -> IU, CS, LED, GP, LM               2UU          2 life
 
 LED:
@@ -419,7 +418,7 @@ LED:
 
 ```
 
-### Conjurer's Bauble (CB) piles
+## Conjurer's Bauble (CB) piles
 
 These piles generally require a CB to be
 in play post DD. They either use the CB or 
@@ -428,45 +427,45 @@ the option of looping CBs for additional storm.
 
 ```
 CB in play:
--> IC, LED, LED, CB, BW              BBB+BBB1+X (7+X)  7+X Storm
--> IC, LED, LED, CB, ToA             BBB+BBB1+X (7+X)  8+X Storm
+-> IC, LED, LED, CB, BW              BBB+BBB1+X (7+X)        7+X Storm
+-> IC, LED, LED, CB, ToA             BBB+BBB1+X (7+X)        8+X Storm
 
 CB in play. Cantrip in hand:
--> IU, LED, LED, CB, BW              BBB+UU1+X  (6+X)  8+X Storm
--> TW, LED, LED, CB, BW              BBB+UU2+X  (7+X)  8+X Storm
--> IU, LED, LED, CB, ToA             BBB+UU1+X  (6+X)  9+X Storm
--> TW, LED, LED, CB, ToA             BBB+UU2+X  (7+X)  9+X Storm
+-> IU, LED, LED, CB, BW              BBB+UU1+X (6+X)         8+X Storm
+-> IU, LED, LED, CB, ToA             BBB+UU1+X (6+X)         9+X Storm
+-> CB, TW/AoI, LED, LED, CB, BW      BBB+[1UU/2R]+1+X (7+X)  12+X Storm
+-> CB, TW/AoI, LED, LED, CB, ToA     BBB+[1UU/2R]+1+X (7+X)  13+X Storm
 
--> IU, LED, LED, BW, BW              BBB+UUR1   (7)    13 Storm
+-> IU, LED, LED, BW, BW              BBB+1UUR   (7)          13 Storm
 -> IU, LED, Cantrip, LED, BW
 
 CB in play. 2 x cantrips in hand:
--> LED, IU, LED, LED, BW             BBB+0      (3)    10 Storm 
--> LED, IU, LED, LED, ToA            BBB+0      (3)    9 Storm 
+-> LED, IU, LED, LED, BW             BBB+0      (3)          10 Storm 
+-> LED, IU, LED, LED, ToA            BBB+0      (3)          9 Storm 
 
 CB in play. BW in hand:
--> IU, LED, LED, GP, CB              BBB+UU1+X  (6+X)  8+X Storm
--> IC, LED, LED, LED, CB             BBB+BBB1+X (7+X)  11+X Storm
--> TW, LED, LED, GP, CB              BBB+UU2+X  (7+X)  8+X Storm
+-> IU, LED, LED, GP, CB              BBB+UU1+X  (6+X)        8+X Storm
+-> IC, LED, LED, LED, CB             BBB+BBB1+X (7+X)        11+X Storm
+-> BS, TW/AoI, CB, LED, LED          BBB+2U+X   (6+X)        10+X Storm
 
 CB in play. ToA in hand:
--> IU, LED, LED, GP, CB              BBB+UU1+X  (6+X)  9+X Storm
--> IC, LED, LED, LED, CB             BBB+BBB1+X (7+X)  12+X Storm
--> TW, LED, LED, GP, CB              BBB+UU2+X  (7+X)  9+X Storm
+-> IU, LED, LED, GP, CB              BBB+UU1+X  (6+X)        9+X Storm
+-> IC, LED, LED, LED, CB             BBB+BBB1+X (7+X)        12+X Storm
+-> TW, LED, LED, GP, CB              BBB+UU2+X  (7+X)        9+X Storm
 
 CB in play. Cantrip + BW in hand:
--> LED, IU, LED, LED, CB             BBB+0+X    (3+X)  9+X Storm
--> LED, IC, LED, LP, CB              BBB+0+X    (3+X)  10+X Storm
--> LED, IC, LED, Duress, CB          BBB+B1+X   (5+X)  10+X Storm
--> LED, IC, LED, LED, CB             BBB+1+X    (4+X)  13+X Storm
--> LED, TW, LED, LED, CB             BBB+1+X    (4+X)  9+X Storm
+-> LED, IU, LED, LED, CB             BBB+0+X    (3+X)        9+X Storm
+-> LED, IC, LED, LP, CB              BBB+0+X    (3+X)        10+X Storm
+-> LED, IC, LED, Duress, CB          BBB+B1+X   (5+X)        10+X Storm
+-> LED, IC, LED, LED, CB             BBB+1+X    (4+X)        13+X Storm
+-> LED, TW, LED, LED, CB             BBB+1+X    (4+X)        9+X Storm
 
 CB in play. Cantrip + ToA in hand:
--> LED, IU, LED, LED, CB             BBB+0+X    (3+X)  10+X Storm
--> LED, IC, LED, LP, CB              BBB+0+X    (3+X)  11+X Storm
--> LED, IC, LED, Duress, CB          BBB+B1+X   (5+X)  11+X Storm
--> LED, IC, LED, LED, CB             BBB+1+X    (4+X)  14+X Storm
--> LED, TW, LED, LED, CB             BBB+1+X    (4+X)  10+X Storm
+-> LED, IU, LED, LED, CB             BBB+0+X    (3+X)        10+X Storm
+-> LED, IC, LED, LP, CB              BBB+0+X    (3+X)        11+X Storm
+-> LED, IC, LED, Duress, CB          BBB+B1+X   (5+X)        11+X Storm
+-> LED, IC, LED, LED, CB             BBB+1+X    (4+X)        14+X Storm
+-> LED, TW, LED, LED, CB             BBB+1+X    (4+X)        10+X Storm
 
 2 Cantrips + BW in hand:
 -> LED, IU, LED, LED, CB             BBB+0      (3)    10 Storm
