@@ -18,10 +18,9 @@ through them.
 
 Some piles are designed to win via other methods other than lethal Tendrils of Agony. 
 These piles will not have a storm count associated with them as it would not be required
-for them.
+for them.   
 
-If you spot a mistake somewhere or feel an important pile is missing please make your changes and 
-send me a pull request. This document is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+This document is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)   
 
 ## Notation
 
