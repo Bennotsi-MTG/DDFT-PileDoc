@@ -10,8 +10,17 @@ this as you will often find that you are sculpting your hand to play towards a s
 allow you to combo off. I think that reading through a pile document and trying out the piles that 
 are there helps in building such an intuition.
 
-If you spot a mistake somewhere or feel an important pile is missing please make your changes and 
-send me a pull request. This document is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+Over time more in depth discussion of certain thought processes or pile building
+styles will be added as more members of the Doomsday community contribute them.
+These discussions will provide more explanation into some of the key concepts of 
+a certain pile collective and explain the step by step run through of how to run 
+through them. 
+
+Some piles are designed to win via other methods other than lethal Tendrils of Agony. 
+These piles will not have a storm count associated with them as it would not be required
+for them.   
+
+This document is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)   
 
 ## Notation
 
@@ -37,7 +46,8 @@ Mana costs are represented as follows:
 W White - U Blue - B Black - R Red - G Green  
 1 one generic mana  
 BBB means three black mana  
-1UU means two blue mana and one generic mana
+1UU means two blue mana and one generic mana  
+X means a variable amount of generic mana
 
 Consider the following example of a Doomsday pile in this notation:
 ```
@@ -60,10 +70,10 @@ because it is obvious that it is used for Tendrils of Agony.
 ```
 GP in hand:
 -> TW, GP, GP, LED, LM               BBB+1UU (6)
--> TW, GP, LED, LED, BW              BBB+1UU (6)     8 Storm
+-> TW, LED, LED, GP, BW              BBB+1UU (6)     8 Storm
 
 -> AoI, GP, GP, LED, LM              BBB+2R (6)
--> AoI, GP, LED, LED, BW             BBB+2R (6)      8 Storm
+-> AoI, LED, LED, GP, BW             BBB+2R (6)      8 Storm
 
 2x GP in hand:
 -> LED, TW, LED, GP, LM              BBB (3)
@@ -88,11 +98,15 @@ BS + LM
 ```
 TW in hand:
 -> LED, GP, GP, GP, LM               BBB+1UU (6)
--> LED, GP, LED, GP, BW              BBB+1UU (6)     8 Storm
+-> LED, LED, GP, GP, BW              BBB+1UU (6)     8 Storm
 
 TW + GP in hand:
--> BS, LED, GP, GP, LM               BBB+U (4)       10 Storm
--> BS, LED, GP, LED, BW              BBB+U (4)
+-> LP, LED, GP, GP, LM               BBB+1U (5)
+-> LP, LED, LED, GP, BW              BBB+1U (5)      9 Storm
+
+AoI + GP in hand:
+-> LP, LED, GP, GP, LM               BBB+2 (5)
+-> LP, LED, LED, GP, BW              BBB+2 (5)       9 Storm
 ```
 
 ## Ideas Unbound Piles
@@ -101,7 +115,7 @@ TW + GP in hand:
 ```
 GP:
 -> IU, GP, CB, LED, LM               BBB+1UU (6)
--> IU, GP, LED, LED, ToA             BBB+UU (5)      7 Storm
+-> IU, GP, LED, LP, ToA              BBB+UU (5)      7 Storm
 -> IU, GP, LED, LED, BW              BBB+UU (5)      8 Storm
 
 2x GP:
@@ -133,7 +147,7 @@ BS + GP + 1 card:
 ```
 Ideas Unbound:
 -> GP, GP, CB, LED, LM               BBB+1UU (6)
--> GP, LED, LED, Ponder, ToA         BBB+UU (5)      7 Storm
+-> GP, LED, LED, P, ToA              BBB+UU (5)      7 Storm
 -> GP, LED, LED, GP, BW              BBB+UU (5)      8 Storm
 
 BS + Ideas Unbound:
@@ -262,6 +276,10 @@ TW:
 TW + GP:
 -> LED, LED, GP, DD, BW             BBB+1UU (6)         13 Storm
 -> TW, LED, LED, GP, BW
+
+CB in play + GP:
+-> IU, LED, LED, BW, BW             BBB+1UUR (7)        13 Storm
+-> IU, LED, GP, LED, BW
 ```
 
 ## Doomsday-Time Spiral Piles
@@ -336,7 +354,11 @@ Costs written as [x/y] means you have to pay either.
 
 ```
 LED in play:
--> TW, LED, GP, DD, BW               1UU (3)       9 Storm
+-> TW, LED, GP, DD, BW              1UU (3)         9 Storm
+-> TW, LED, LED, BW(ToA), X
+
+-> IU, LED, CB, DD, BW              1UU (3)         9 Storm
+-> IU, LED, LED, BW(ToA), X
 ```
 
 ## Pass the turn Piles using Chain of Vapor
