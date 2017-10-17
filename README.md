@@ -46,7 +46,7 @@ Mana costs are represented as follows:
 W White - U Blue - B Black - R Red - G Green  
 1 one generic mana  
 BBB means three black mana  
-1UU means two blue mana and one generic mana
+1UU means two blue mana and one generic mana  
 X means a variable amount of generic mana
 
 Consider the following example of a Doomsday pile in this notation:
@@ -70,10 +70,10 @@ because it is obvious that it is used for Tendrils of Agony.
 ```
 GP in hand:
 -> TW, GP, GP, LED, LM               BBB+1UU (6)
--> TW, GP, LED, LED, BW              BBB+1UU (6)     8 Storm
+-> TW, LED, LED, GP, BW              BBB+1UU (6)     8 Storm
 
 -> AoI, GP, GP, LED, LM              BBB+2R (6)
--> AoI, GP, LED, LED, BW             BBB+2R (6)      8 Storm
+-> AoI, LED, LED, GP, BW             BBB+2R (6)      8 Storm
 
 2x GP in hand:
 -> LED, TW, LED, GP, LM              BBB (3)
@@ -98,11 +98,15 @@ BS + LM
 ```
 TW in hand:
 -> LED, GP, GP, GP, LM               BBB+1UU (6)
--> LED, GP, LED, GP, BW              BBB+1UU (6)     8 Storm
+-> LED, LED, GP, GP, BW              BBB+1UU (6)     8 Storm
 
 TW + GP in hand:
--> BS, LED, GP, GP, LM               BBB+U (4)       10 Storm
--> BS, LED, GP, LED, BW              BBB+U (4)
+-> LP, LED, GP, GP, LM               BBB+1U (5)
+-> LP, LED, LED, GP, BW              BBB+1U (5)      9 Storm
+
+AoI + GP in hand:
+-> LP, LED, GP, GP, LM               BBB+2 (5)
+-> LP, LED, LED, GP, BW              BBB+2 (5)       9 Storm
 ```
 
 ## Ideas Unbound Piles
@@ -350,11 +354,11 @@ Costs written as [x/y] means you have to pay either.
 
 ```
 LED in play:
--> TW, LED, GP, DD, BW               1UU (3)       9 Storm
+-> TW, LED, GP, DD, BW              1UU (3)         9 Storm
+-> TW, LED, LED, BW(ToA), X
 
-CB in play:
--> IU, LED, LED, BW, BW              1UUR (4)      11 Storm
--> IU, LED, GP, LED, BW
+-> IU, LED, CB, DD, BW              1UU (3)         9 Storm
+-> IU, LED, LED, BW(ToA), X
 ```
 
 ## Pass the turn Piles using Chain of Vapor
