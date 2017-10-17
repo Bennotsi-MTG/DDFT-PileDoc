@@ -135,8 +135,7 @@ BS + Tendrils:
 -> IU, BS/P, LED, LP, DR             BBB+UU (5)      8 Storm
 
 BS + BW:
--> IU, GP, LED, LED, LP              BBB+2U (6)      9 Storm
--> IU, GP, LED, LED, LED             BBB+UR (5)      9 Storm
+-> IU, GP, LED, LED, LP              BBB+1U (5)      9 Storm
 
 BS + BW + GP:
 -> IU, LED, LED, LED, LED            BBB+U (4)       10 Storm
