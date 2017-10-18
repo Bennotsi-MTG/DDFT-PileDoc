@@ -388,7 +388,8 @@ GP in hand:
 ```
 
 ### Chromatic Sphere (CS) piles
-```Nothing:
+```
+Nothing:
 -> IU, CS, LED, GP, LM               2UU          2 life
 
 LED:
