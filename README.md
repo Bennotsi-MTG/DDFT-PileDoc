@@ -453,6 +453,7 @@ CB in play. BW in hand:
 -> IU, LED, LED, GP, CB              BBB+UU1+X  (6+X)        8+X Storm
 -> IC, LED, LED, LED, CB             BBB+BBB1+X (7+X)        11+X Storm
 -> BS, TW/AoI, CB, LED, LED          BBB+2U+X   (6+X)        10+X Storm
+-> BS, TW/AoI, CB, LED, LED          BBB+1U     (5)          9 Storm
 
 CB in play. ToA in hand:
 -> IU, LED, LED, GP, CB              BBB+UU1+X  (6+X)        9+X Storm
@@ -482,10 +483,12 @@ CB in play. Cantrip + ToA in hand:
 -> LED, TW/AoI, LED, LED, CB         BBB+1      (4)          9 Storm
 
 CB in play. IU in hand:
--> LED, LED, GP, GP, BW              BBB+UU     (5)          9 Storm
+-> LED, LED, GP, CB, BW              BBB+UU     (5)          11+X Storm
+-> LED, LED, GP, CB, ToA             BBB+UU     (5)          12+X Storm
 
 CB in play. TW/AoI in hand:
 -> BS, LED, LED, CB, BW              BBB+1U     (5)          9 Storm
+-> BS, LED, LED, CB, ToA             BBB+1U+X   (5+X)        10+X Storm
 
 CB in play. IC in hand:
 -> LED, LED, LP, CB, BW              BBB+BBB+X  (6)          9+X Storm
